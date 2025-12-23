@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Rice"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Eggs"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": "5",
+      "checked": true,
+      "item": "Vegetables"
+    },
+    {
+      "id": "51",
+      "checked": false,
+      "item": "cookies"
+    }
+  ]
+}

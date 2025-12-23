@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Getting Started with React Router",
+      "datetime": "July 12, 2025 10:30 AM",
+      "body": "React Router enables navigation between views in a React application without reloading the page. It helps in building single-page applications with clean URLs and better user experience."
+    },
+    {
+      "id": "2",
+      "title": "Understanding useEffect in React",
+      "datetime": "July 14, 2025 08:15 PM",
+      "body": "The useEffect hook allows you to perform side effects in functional components. It is commonly used for data fetching, subscriptions, and manually changing the DOM."
+    },
+    {
+      "id": "3",
+      "title": "State vs Props in React",
+      "datetime": "July 16, 2025 09:00 AM",
+      "body": "Props are used to pass data from parent to child components, while state is used to manage data within a component. Understanding the difference is crucial for building scalable React apps."
+    },
+    {
+      "id": "4",
+      "title": "Building a Simple Blog App in React  123",
+      "datetime": "December 21, 2025 10:24:21 PM",
+      "body": "A blog app is a great way to learn React fundamentals. It involves routing, form handling, state management, and CRUD operations using local storage or an API."
+    },
+    {
+      "id": "51",
+      "title": "test ",
+      "datetime": "D 21, 2025 9:20:15 PM",
+      "body": "ettt"
+    }
+  ]
+}
